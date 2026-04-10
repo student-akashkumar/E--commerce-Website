@@ -1,6 +1,15 @@
 
  /* Header Start */
+*{
+margin: 0;
+padding: 0;
+overflow-x: hidden;
 
+}
+body{
+  min-height: 100vh;
+  width: 100%;
+}
 #header{
   display: flex;
   align-items: center;
